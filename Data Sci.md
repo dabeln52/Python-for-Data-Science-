@@ -1,6 +1,6 @@
 ## Understand how to read and write a CSV File in Python with pandas! 
  
-#What is a CSV file? 
+##What is a CSV file? 
 A CSV file(Comma Separated Values File) is a type of plain text file that uses specific structuring to organize your data. 
 
 They can typically look like this: 
