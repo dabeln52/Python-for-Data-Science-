@@ -25,7 +25,7 @@ print(df)
 ```
 Yep using pandas can really make it that easy! 
 
-# Now lets see how to Write CSv files with pandas
+# Now lets see how to Write CSV files with pandas
 
 You may think writing a DataFrame to a CSV file would be much harder, but it turns out it is just as easy as reading one! 
 
